@@ -24,6 +24,7 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/m7tmo.mk \
 	$(LOCAL_DIR)/n7000.mk \
 	$(LOCAL_DIR)/n7100.mk \
+    $(LOCAL_DIR)/p880.mk \
     $(LOCAL_DIR)/r950.mk \
 	$(LOCAL_DIR)/t0lte.mk \
 	$(LOCAL_DIR)/t0lteatt.mk \
